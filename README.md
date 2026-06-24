@@ -1,5 +1,4 @@
-<!-- Profile README -->
-````md
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:0EA5E9,100:22C55E&text=Soham%20Jagtap&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
