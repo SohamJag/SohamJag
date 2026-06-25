@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=900&color=22C55E&lines=Building+cool+things+and+breaking+them;Python+%7C+Security+%7C+Networking+%7C+AI;Automating+everything+that+gets+annoying;Learning+in+public;Turning+curiosity+into+projects"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohamJag&style=for-the-badge&color=0ea5e9"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=900&color=22C55E&lines=Building+cool+things+and+breaking+them;Python+%7C+Security+%7C+Networking+%7C+AI;Automating+what+gets+repetitive;Learning+in+public;Turning+curiosity+into+projects"/>
 </p>
 
 ---
@@ -20,10 +16,10 @@ $ whoami
 soham@github
 
 Role:
-> Builder
+> Security & Automation Enthusiast
 
 Focus:
-> Security
+> Cybersecurity
 > Networking
 > Automation
 > AI
@@ -46,6 +42,8 @@ Most of my repositories start with a simple question:
 > Can this be automated?
 
 and usually end with me building an entire platform around it.
+
+My projects are a mix of experimentation, learning, and solving problems that I find interesting—from AI-powered troubleshooting systems to DFIR tools, network monitoring platforms, and security-focused dashboards.
 
 Currently exploring how AI can be integrated into infrastructure, troubleshooting, security analysis, and operational workflows.
 
@@ -87,7 +85,7 @@ interests:
 
 # Featured Projects
 
-### NetSage
+## NetSage
 
 AI-powered Network Operations and Troubleshooting Platform inspired by modern NOC environments.
 
@@ -95,23 +93,23 @@ AI-powered Network Operations and Troubleshooting Platform inspired by modern NO
 
 ---
 
-### Obsidian Circuit
+## Obsidian Circuit
 
-Digital Forensics and Incident Response platform focused on logs, packets, and investigations.
+Digital Forensics and Incident Response platform focused on log analysis, packet investigations, and forensic reporting.
 
 **Tech:** Python • Streamlit • VirusTotal API
 
 ---
 
-### IT Support Automation Toolkit
+## IT Support Automation Toolkit
 
-Cross-platform IT troubleshooting and automation suite.
+Cross-platform IT troubleshooting and automation suite designed for support engineers and system administrators.
 
 **Tech:** Flask • Python • SQLite • Pandas • Matplotlib
 
 ---
 
-### AI Secure Expense Manager
+## AI Secure Expense Manager
 
 Expense tracking application featuring anomaly detection using machine learning.
 
@@ -119,7 +117,7 @@ Expense tracking application featuring anomaly detection using machine learning.
 
 ---
 
-### CI/CD Docker AWS Application
+## CI/CD Docker AWS Application
 
 Containerized task management platform with automated deployment workflows.
 
@@ -127,7 +125,7 @@ Containerized task management platform with automated deployment workflows.
 
 ---
 
-### IT Asset Inventory Manager
+## IT Asset Inventory Manager
 
 Asset lifecycle and inventory tracking platform for IT environments.
 
@@ -147,66 +145,6 @@ Cloud Experiments
 DevOps Workflows
 IT Operations
 ```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SohamJag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamJag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamJag&theme=tokyonight"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SohamJag&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SohamJag&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Open Source Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohamJag&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohamJag&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohamJag&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohamJag&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
 
 ---
 
@@ -247,13 +185,21 @@ while True:
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/soham-jagtap-a71707250/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:soham1802d@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SohamJag">GitHub</a> •
+<a href="https://www.linkedin.com/in/soham-jagtap-a71707250/">LinkedIn</a> •
+<a href="mailto:soham1802d@gmail.com">soham1802d@gmail.com</a>
 
 </p>
 
