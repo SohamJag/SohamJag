@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:134e4a,100:0891b2&text=Soham%20Jagtap&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:134e4a,100:0891b2&text=Soham%20Jagtap&fontColor=ffffff&fontSize=50&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Networking+%7C+Automation;Building+things+that+probably+didn't+need+to+be+built;Learning+by+creating+real+projects;CTF+Player+%7C+Security+Enthusiast;Turning+small+ideas+into+large+side+projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Networking+%7C+Automation;CTF+Player+%7C+Security+Enthusiast;Building+Things+That+Probably+Didn't+Need+To+Be+Built;Learning+By+Building;Turning+Small+Ideas+Into+Large+Side+Projects"/>
 </p>
 
 <br>
@@ -35,11 +35,12 @@ Profession  : Professional "there must be a better way" thinker
 
 Status      : Turning small ideas into large side projects
 
-buffM3:
-A username I use across CTF competitions,
-security labs, and cybersecurity platforms.
+About buffM3:
 
-Current Focus:
+A username I use across CTF competitions,
+security labs and cybersecurity platforms.
+
+Interests:
 - Cybersecurity
 - Networking
 - Automation
