@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Networking+%7C+Automation;CTF+Player+%7C+Security+Enthusiast;Building+Things+That+Probably+Didn't+Need+To+Be+Built;Learning+By+Building;Turning+Small+Ideas+Into+Large+Side+Projects"/>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/SohamJag">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -31,7 +29,7 @@ Name        : Soham Jagtap
 
 Alias       : buffM3
 
-Profession  : Professional "there must be a better way" thinker
+Profession  : Builder, Security Enthusiast & Automation Enjoyer
 
 Status      : Turning small ideas into large side projects
 
