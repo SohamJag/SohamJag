@@ -1,3 +1,4 @@
+````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:111827,50:0F766E,100:06B6D4&text=Soham%20Jagtap&fontColor=ffffff&fontSize=55&fontAlignY=45"/>
 </p>
@@ -25,14 +26,29 @@
 ```bash
 $ whoami
 
-Name      : Soham Jagtap
-Alias     : buffM3
-Role      : Security Enthusiast & Professional Button Clicker
-Status    : Turning "what if?" into side projects
-Location  : Pune, India
+Name        : Soham Jagtap
+Alias       : buffM3
 
-Warning:
-May automate tasks that only take 30 seconds manually.
+Profession  : Professional "there must be a better way" thinker
+
+Status      : Turning small ideas into large side projects
+
+buffM3:
+Used across CTF competitions, security labs,
+and cybersecurity learning platforms.
+
+Interests:
+> Cybersecurity
+> Networking
+> Automation
+> AI
+
+Special Ability:
+Can spend 6 hours automating a task
+that takes 30 seconds manually.
+
+Current Quest:
+Turning curiosity into projects.
 ```
 
 <p align="center">
@@ -54,14 +70,18 @@ Most of my projects start with a simple question:
 </p>
 
 <p align="center">
-and usually end with an unnecessarily large dashboard, a database,
-and several features nobody originally asked for.
+and usually end with an entire dashboard, a database,
+automation scripts, and several features nobody originally asked for.
 </p>
 
 <p align="center">
-I enjoy building tools around network operations, security monitoring,
-IT operations, digital forensics, infrastructure automation,
+I enjoy building tools around network operations, digital forensics,
+security monitoring, infrastructure automation, IT operations,
 and AI-assisted workflows.
+</p>
+
+<p align="center">
+Currently focused on learning by building and documenting everything publicly.
 </p>
 
 <p align="center">
@@ -85,8 +105,9 @@ and AI-assisted workflows.
 | Security Monitoring |
 | Network Operations |
 | Threat Detection |
-| Cloud & Infrastructure |
-| AI-Assisted Automation |
+| Cloud Technologies |
+| Infrastructure Engineering |
+| AI-Augmented Workflows |
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -99,7 +120,7 @@ and AI-assisted workflows.
 </p>
 
 <p align="center">
-Python • FastAPI • Flask • React • Node.js • Docker • AWS • Linux • MongoDB • SQLite
+Python • FastAPI • Flask • React • Node.js • Java • Docker • AWS • Linux • MongoDB • SQLite
 </p>
 
 <p align="center">
@@ -117,7 +138,7 @@ Python • FastAPI • Flask • React • Node.js • Docker • AWS • Linux 
 | **IT Asset Inventory Manager** | Asset lifecycle and inventory management solution |
 | **CI/CD Docker AWS Application** | Containerized application with automated deployment workflows |
 | **IT Help Desk Ticket Tracker** | Support ticket management system with analytics dashboards |
-| **Sentinel RDP Snare** | Azure Sentinel honeypot project for RDP attack monitoring |
+| **Sentinel RDP Snare** | Azure Sentinel honeypot project for monitoring RDP attack activity |
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -209,11 +230,10 @@ while curiosity:
 ---
 
 <p align="center">
-Building.
-Learning.
-Automating.
+Building. Learning. Automating.
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0F766E,100:06B6D4"/>
 </p>
+````
