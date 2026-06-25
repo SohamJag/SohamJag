@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=900&color=22C55E&lines=Building+cool+things+and+breaking+them;Python+%7C+Security+%7C+Networking+%7C+AI;Automating+everything+that+gets+annoying;Learning+in+public;Turning+curiosity+into+projects"/>
 </p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SohamJag&style=for-the-badge&color=0ea5e9)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SohamJag&style=for-the-badge&color=0ea5e9"/>
+</p>
 
 ---
 
@@ -24,11 +22,11 @@ soham@github
 Role:
 > Builder
 
-Current Focus:
-> Automation
-> Cybersecurity
+Focus:
+> Security
 > Networking
-> AI Experiments
+> Automation
+> AI
 
 Status:
 > Learning by building
@@ -41,21 +39,15 @@ Location:
 
 # About
 
-I enjoy building projects that sit at the intersection of:
-
-- Automation
-- Cybersecurity
-- Networking
-- AI
-- IT Operations
+I enjoy building projects around automation, networking, cybersecurity, and AI.
 
 Most of my repositories start with a simple question:
 
-> "Can this be automated?"
+> Can this be automated?
 
 and usually end with me building an entire platform around it.
 
-Currently exploring how AI can be used for troubleshooting, security analysis, and infrastructure workflows.
+Currently exploring how AI can be integrated into infrastructure, troubleshooting, security analysis, and operational workflows.
 
 ---
 
@@ -64,9 +56,9 @@ Currently exploring how AI can be used for troubleshooting, security analysis, a
 ```yaml
 building:
   - AI-powered troubleshooting systems
-  - Security monitoring tools
-  - Network automation platforms
-  - IT operations dashboards
+  - Network monitoring tools
+  - Security dashboards
+  - Infrastructure automation
 
 learning:
   - Cloud Infrastructure
@@ -78,7 +70,7 @@ interests:
   - Digital Forensics
   - Incident Response
   - Threat Detection
-  - Infrastructure Automation
+  - Network Operations
 ```
 
 ---
@@ -87,67 +79,9 @@ interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,flask,fastapi,mongodb,sqlite,docker,aws,linux,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,flask,fastapi,mongodb,sqlite,docker,aws,linux,git,github,vscode,bash&perline=8" />
 
 </div>
-
----
-
-# Things I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### Network & Infrastructure
-
-- Network Monitoring Tools
-- Troubleshooting Dashboards
-- NOC-style Systems
-- Infrastructure Automation
-- Telemetry Platforms
-
-</td>
-
-<td width="50%">
-
-### Security
-
-- DFIR Tools
-- Log Analysis
-- SIEM Projects
-- Threat Detection
-- Security Automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### AI Experiments
-
-- Local LLM Integrations
-- AI Assistants
-- Intelligent Dashboards
-- Anomaly Detection
-- Automation Agents
-
-</td>
-
-<td width="50%">
-
-### Full-Stack Projects
-
-- Flask Applications
-- FastAPI Backends
-- React Interfaces
-- REST APIs
-- Data Visualization
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -155,7 +89,7 @@ interests:
 
 ### NetSage
 
-AI-powered network troubleshooting and monitoring platform inspired by real-world NOC environments.
+AI-powered Network Operations and Troubleshooting Platform inspired by modern NOC environments.
 
 **Tech:** FastAPI • React • SQLite • Ollama • Netmiko
 
@@ -163,7 +97,7 @@ AI-powered network troubleshooting and monitoring platform inspired by real-worl
 
 ### Obsidian Circuit
 
-A digital forensics and incident response platform focused on logs, packets, and investigations.
+Digital Forensics and Incident Response platform focused on logs, packets, and investigations.
 
 **Tech:** Python • Streamlit • VirusTotal API
 
@@ -171,7 +105,7 @@ A digital forensics and incident response platform focused on logs, packets, and
 
 ### IT Support Automation Toolkit
 
-A collection of IT support utilities designed to automate repetitive troubleshooting tasks.
+Cross-platform IT troubleshooting and automation suite.
 
 **Tech:** Flask • Python • SQLite • Pandas • Matplotlib
 
@@ -179,7 +113,7 @@ A collection of IT support utilities designed to automate repetitive troubleshoo
 
 ### AI Secure Expense Manager
 
-Expense management platform with anomaly detection for identifying unusual spending patterns.
+Expense tracking application featuring anomaly detection using machine learning.
 
 **Tech:** React • Express • MongoDB • FastAPI • Scikit-Learn
 
@@ -193,13 +127,44 @@ Containerized task management platform with automated deployment workflows.
 
 ---
 
+### IT Asset Inventory Manager
+
+Asset lifecycle and inventory tracking platform for IT environments.
+
+**Tech:** Flask • SQLite • Chart.js
+
+---
+
+# Project Themes
+
+```text
+Network Operations
+Cybersecurity
+Digital Forensics
+AI Automation
+Infrastructure Tooling
+Cloud Experiments
+DevOps Workflows
+IT Operations
+```
+
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SohamJag&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SohamJag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamJag&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamJag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamJag&theme=tokyonight"/>
 
 </div>
 
@@ -209,33 +174,54 @@ Containerized task management platform with automated deployment workflows.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamJag&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SohamJag&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# Activity Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamJag&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SohamJag&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# Project Themes
+# Open Source Metrics
 
-```text
-Network Operations
-Security Monitoring
-Digital Forensics
-AI-Powered Automation
-Infrastructure Tooling
-Cloud Experiments
-DevOps Workflows
-IT Operations
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohamJag&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohamJag&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohamJag&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohamJag&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# Currently Exploring
+
+```python
+topics = [
+    "Network Automation",
+    "AI Agents",
+    "DFIR",
+    "Detection Engineering",
+    "Cloud Infrastructure",
+    "Security Monitoring",
+    "DevOps"
+]
 ```
 
 ---
@@ -261,7 +247,7 @@ while True:
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
